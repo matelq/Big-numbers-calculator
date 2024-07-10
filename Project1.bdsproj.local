@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022.11.26 15:10:11.106.cpp,C:\Users\User\Documents\Borland Studio Projects\Unit1.cpp=S:\bds projects\semestrovoe\Unit1.cpp</Transaction>
+    <Transaction>2022.11.26 15:10:11.106.h,C:\Users\User\Documents\Borland Studio Projects\Unit1.h=S:\bds projects\semestrovoe\Unit1.h</Transaction>
+    <Transaction>2022.11.26 15:10:11.106.dfm,C:\Users\User\Documents\Borland Studio Projects\Unit1.dfm=S:\bds projects\semestrovoe\Unit1.dfm</Transaction>
+    <Transaction>2022.11.26 15:10:13.700.bdsproj,C:\Users\User\Documents\Borland Studio Projects\Project1.bdsproj=S:\bds projects\semestrovoe\Project1.bdsproj</Transaction>
+    <Transaction>2022.11.26 16:03:59.951.h,S:\bds projects\semestrovoe\bigNumber.h=</Transaction>
+    <Transaction>2022.11.26 16:04:02.415.cpp,S:\bds projects\semestrovoe\bigNumber.cpp=</Transaction>
+  </Transactions>
+</BorlandProject>

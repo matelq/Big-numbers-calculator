@@ -6,5 +6,5 @@
 
 ## Примеры работы
 
-![f](img1.png)
-![fef](img2.png)
+![f](./imgs/img1.png)
+![fef](./imgs/img2.png)
